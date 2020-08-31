@@ -1,0 +1,2 @@
+/usr/local/bin/pandoc-citeproc ; exit;
+/usr/local/bin/pandoc ; exit;

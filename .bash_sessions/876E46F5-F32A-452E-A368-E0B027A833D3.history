@@ -1,0 +1,18 @@
+/usr/local/bin/pandoc-citeproc ; exit;
+/usr/local/bin/pandoc ; exit;
+pandoc
+pandoc /Users/maurinschucan/Documents/Maurin/Lehre/ZLI/Development_Fundamentals/MANUAL.txt -o /Users/maurinschucan/Documents/Maurin/Lehre/ZLI/Development_Fundamentals/MANUAL.html
+pandoc/Users/maurinschucan/Documents/Maurin/Lehre/ZLI/Development_Fundamentals/MANUAL.txt -o /Users/maurinschucan/Documents/Maurin/Lehre/ZLI/Development_Fundamentals/MANUAL.odt
+/bin/bash -c "$(curl -fsSL https://raw.githubusercontent.com/Homebrew/install/master/install.sh)"
+brew help
+$ brew install git
+brew install git
+git int
+git init
+git clone /pfad/zum/repository
+git clone /Users/maurinschucan/.git/
+git commit -m "Test"
+git config --global user.name "Maurin Schucan"
+git config --global user.email "maurin@schucan.ch"
+cd beispiel
+$ cd beispiel

@@ -1,0 +1,5 @@
+/usr/local/bin/pandoc-citeproc ; exit;
+/usr/local/bin/pandoc ; exit;
+pandoc
+pandoc /Users/maurinschucan/Documents/Maurin/Lehre/ZLI/Development_Fundamentals/MANUAL.txt -o /Users/maurinschucan/Documents/Maurin/Lehre/ZLI/Development_Fundamentals/MANUAL.html
+pandoc/Users/maurinschucan/Documents/Maurin/Lehre/ZLI/Development_Fundamentals/MANUAL.txt -o /Users/maurinschucan/Documents/Maurin/Lehre/ZLI/Development_Fundamentals/MANUAL.odt
