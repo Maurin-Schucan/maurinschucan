@@ -10,9 +10,20 @@
 
 # hlsearch on (H) or off (h):
 ~h
+# Last Search Pattern:
+~MSle0~/openssl
+
 # Command Line History (newest to oldest):
+:wq
+|2,0,1602507931,,"wq"
+:wq!
+|2,0,1602507869,,"wq!"
 
 # Search String History (newest to oldest):
+?/openssl
+|2,1,1602507860,47,"openssl"
+?/curl
+|2,1,1602507844,47,"curl"
 
 # Expression History (newest to oldest):
 
@@ -21,16 +32,59 @@
 # Debug Line History (newest to oldest):
 
 # Registers:
+""-	CHAR	0
+	;
+|3,1,36,0,1,0,1602507863,";"
 
 # File marks:
-'0  1  0  ~/Test/.git/TAG_EDITMSG
-|4,48,1,0,1598364232,"~/Test/.git/TAG_EDITMSG"
+'0  5  1  ~/Documents/phpinfo.php
+|4,48,5,1,1602507931,"~/Documents/phpinfo.php"
+'1  923  0  /private/etc/php.ini.default
+|4,49,923,0,1602507869,"/private/etc/php.ini.default"
+'2  1  0  ~/Test/.git/TAG_EDITMSG
+|4,50,1,0,1598364232,"~/Test/.git/TAG_EDITMSG"
 
 # Jumplist (newest first):
+-'  5  1  ~/Documents/phpinfo.php
+|4,39,5,1,1602507931,"~/Documents/phpinfo.php"
+-'  1  0  ~/Documents/phpinfo.php
+|4,39,1,0,1602507912,"~/Documents/phpinfo.php"
+-'  923  0  /private/etc/php.ini.default
+|4,39,923,0,1602507869,"/private/etc/php.ini.default"
+-'  923  0  /private/etc/php.ini.default
+|4,39,923,0,1602507869,"/private/etc/php.ini.default"
+-'  909  0  /private/etc/php.ini.default
+|4,39,909,0,1602507860,"/private/etc/php.ini.default"
+-'  909  0  /private/etc/php.ini.default
+|4,39,909,0,1602507860,"/private/etc/php.ini.default"
+-'  1  0  /private/etc/php.ini.default
+|4,39,1,0,1602507844,"/private/etc/php.ini.default"
+-'  1  0  /private/etc/php.ini.default
+|4,39,1,0,1602507844,"/private/etc/php.ini.default"
+-'  1  0  ~/Test/.git/TAG_EDITMSG
+|4,39,1,0,1598364232,"~/Test/.git/TAG_EDITMSG"
+-'  1  0  ~/Test/.git/TAG_EDITMSG
+|4,39,1,0,1598364232,"~/Test/.git/TAG_EDITMSG"
+-'  1  0  ~/Test/.git/TAG_EDITMSG
+|4,39,1,0,1598364232,"~/Test/.git/TAG_EDITMSG"
 -'  1  0  ~/Test/.git/TAG_EDITMSG
 |4,39,1,0,1598364232,"~/Test/.git/TAG_EDITMSG"
 
 # History of marks within files (newest to oldest):
+
+> ~/Documents/phpinfo.php
+	*	1602507928	0
+	"	5	1
+	^	5	2
+	.	5	1
+	+	5	1
+
+> /private/etc/php.ini.default
+	*	1602507866	0
+	"	923	0
+	.	923	0
+	+	909	0
+	+	923	0
 
 > ~/Test/.git/TAG_EDITMSG
 	*	1598364229	0
